@@ -1,7 +1,94 @@
-
-
 body {
-background-color: #e1e5f2;
-font-family: Arial, Helvetica, sans-serif;
+    background-color: #e1e5f2;
+    font-family: 'Roboto',
+        sans-serif;
+    text-align: center;
+    font-size: 1em;
+
+}
+
+#img {
+    box-shadow: 10px 10px 20px grey;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+
+}
+
+#img2 {
+    box-shadow: 10px 10px 20px grey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#img3 {
+    box-shadow: 10px 10px 20px grey;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+#img4 {
+    box-shadow: 10px 10px 20px grey;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+#skill {
+    box-shadow: 10px 10px 20px grey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+
+}
+
+.table {
+    box-shadow: 10px 10px 20px grey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px;
+
+}
+
+#futuro {
+    font-size: 1.8rem;
+}
+
+.h1 {
+    background-color: blanchedalmond;
+    box-shadow: 10px 10px 20px grey;
+    text-align: center;
+    font-size: 4.325rem;
+    font-family: 'Caveat',
+        cursive;
+
+}
+
+.div {
+    box-shadow: 10px 10px 20px grey;
+}
+
+#h2 {
+    font-family: 'Barlow Condensed',
+        sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
 
 }

@@ -1,13 +1,51 @@
 .box-1 {
-    background-color: blueviolet; height: 200px; width: 200px; border: solid 20px black;
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    border: solid 20px black;
+    position: static;
+    margin-left: ;
+
 }
 
 .box-2 {
-    background-color: royalblue; height: 200px; width: 200px; border: solid 20px black;
-    margin-left: 240px;
+    background-color: royalblue;
+    height: 200px;
+    width: 200px;
+    border: solid 20px black;
+
 }
 
 .box-3 {
-    background-color: burlywood; height: 200px; width: 200px; border: solid 20px black;
-    margin-left: 480px;
+    background-color: burlywood;
+    height: 500px;
+    width: 500px;
+    border: solid 20px black;
+
+}
+
+.box-4 {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    border: solid 20px black;
+    position: absolute;
+    margin-left: px;
+
+}
+
+.box-5 {
+    background-color: royalblue;
+    height: 200px;
+    width: 200px;
+    border: solid 20px black;
+
+}
+
+.box-6 {
+    background-color: burlywood;
+    height: 200px;
+    width: 200px;
+    border: solid 20px black;
+
 }
